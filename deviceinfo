@@ -4,7 +4,7 @@
 deviceinfo_format_version="0"
 deviceinfo_name="Xiaomi Redmi Note 4"
 deviceinfo_manufacturer="Xiaomi"
-deviceinfo_codename="xiaomi-mido"
+deviceinfo_codename="xiaomi-mido-mainline"
 deviceinfo_year="2017"
 deviceinfo_dtb="qcom/sdm625-xiaomi-mido"
 deviceinfo_append_dtb="true"
